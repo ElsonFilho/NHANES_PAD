@@ -5,6 +5,7 @@
 ## OBJECTIVES: 														        
 ###  Understand the survey data and create a predictive model to identify the main factors that are related to the disease, to prioritize the physical exams and to support the diganostics.
 ## TASKS:  
+### - Prepare the data for Modelling;
 ### - Data Partition (Training and Validation);
 ### - Feature Engeneering (add additional features); 
 ### - Modelling; 
