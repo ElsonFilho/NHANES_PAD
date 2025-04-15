@@ -3,8 +3,8 @@
 /*****************************************************************************/
 /*  National Health and Nutrition Examination Survey (NHANES)                */       
 /*  Peripheral Artery Disease (PAD)                                          */
-/*  Data collection: household screener, interview, and physical examination.*/                                        */            */
-/* OBJECTIVES: 														         */
+/*  Data collection: household screener, interview, and physical examination.*/
+/* OBJECTIVES: 								     */
 /*  Understand the survey data and create a predictive model to identify the */
 /*  main factors that are related to the disease, to prioritize the physical */
 /*  exams and to support the diganostics.                                    */
